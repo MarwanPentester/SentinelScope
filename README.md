@@ -45,7 +45,7 @@ The tool focuses on clarity, accuracy, and human-readable output, making it suit
 git clone https://github.com/YOUR_USERNAME/SentinelScope.git
 cd SentinelScope
 pip install -r requirements.txt
-bash'''
+---
 
 ## USAGE
 
