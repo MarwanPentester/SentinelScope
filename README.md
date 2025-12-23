@@ -46,4 +46,9 @@ git clone https://github.com/YOUR_USERNAME/SentinelScope.git
 cd SentinelScope
 pip install -r requirements.txt
 
+## Usage
+
+### Scan a target website and detect backend and frontend technologies:
+
+'''bash
 python3 sentinelscope.py https://example.com
