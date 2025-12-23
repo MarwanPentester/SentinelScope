@@ -46,3 +46,4 @@ git clone https://github.com/YOUR_USERNAME/SentinelScope.git
 cd SentinelScope
 pip install -r requirements.txt
 
+python3 sentinelscope.py https://example.com
