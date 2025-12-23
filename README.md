@@ -47,12 +47,12 @@ cd SentinelScope
 pip install -r requirements.txt
 
 
-## USAGE
+### USAGE
 
 '''bash
 Scan a target website and detect backend and frontend technologies:
 python3 sentinelscope.py https://example.com
-'''
+
 Analyze JavaScript files only (skip backend detection):
 python3 sentinelscope.py https://example.com --js-only
 
