@@ -1,6 +1,4 @@
 # SentinelScope
-Advanced web fingerprinting and JavaScript analysis tool for penetration testers.
-# SentinelScope
 Advanced Web Fingerprinting & JavaScript Analysis Tool
 
 SentinelScope is a Python-based web fingerprinting and JavaScript analysis tool designed for penetration testers and security researchers.  
@@ -47,6 +45,7 @@ The tool focuses on clarity, accuracy, and human-readable output, making it suit
 git clone https://github.com/YOUR_USERNAME/SentinelScope.git
 cd SentinelScope
 pip install -r requirements.txt
+'''
 
 ## USAGE
 
@@ -63,10 +62,11 @@ Save results to a JSON file:
 python3 sentinelscope.py https://example.com -o result.json
 
 
-## Disclaimer
+Disclaimer
 This tool is intended for educational purposes and authorized security testing only.
 The author is not responsible for misuse or illegal activities.
 
-## Author
+Author
+
 Developed by a security enthusiast and penetration tester.
 This project was created to demonstrate real-world understanding of web application fingerprinting and reconnaissance techniques.
